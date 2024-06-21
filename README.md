@@ -44,7 +44,7 @@
 </p>
 <hr/>
 <div align="center">
-<h3>Trying to make my snake run forever</h3>
+<h3>Trying to make my 🐍 crawl forever</h3>
 <img alt="snake eating my contribution" src="https://raw.githubusercontent.com/krish146/krish146/output/github-contribution-grid-snake.svg">
 
 </div>
