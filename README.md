@@ -3,7 +3,7 @@
 <body>
 <img align="right" src="https://komarev.com/ghpvc/?username=krish146&label=Profile%20views&color=0e75b6&style=flat" alt="krish146" />
 
-<h1 align="right">
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=35&duration=3500&lines=Hi+There!+👋;+I'm+Yashesh!;" />
 </h1>  
 
@@ -12,6 +12,7 @@
  🔭 I’m currently working on <a href="https://github.com/krish146/Hobnob">Hobnob</a> an application where you can connect with communities
   🌱 I’m currently learning <b>MERN Stack</b>
 <br>
+    
    🤓Feel free to look into my Contributions and Works
  </div>
    <div align="center">
