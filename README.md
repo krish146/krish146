@@ -10,10 +10,10 @@
   <h3 align="center">Aspiring Software Developer - Trying to compile resources efficiently</h3>
 <div align="center">
  🔭 I’m currently working on <a href="https://github.com/krish146/Hobnob">Hobnob</a> an application where you can connect with communities
-  🌱 I’m currently learning <b>MERN Stack</b>
+  
+🌱 I’m currently learning <b>MERN Stack</b>
 <br>
-    
-   🤓Feel free to look into my Contributions and Works
+🤓Feel free to look into my Contributions and Works
  </div>
    <div align="center">
   <h4>Connect with me:</h4>
