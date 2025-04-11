@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=35&duration=3500&lines=Hi+There!+👋+I'm+Yashesh!;" />
 </h1>  
 
-  <h3 align="center">Aspiring Software Developer - Trying to compile resources efficiently</h3>
+  <h3 align="center">Working as a Data Engineer - Trying to compile resources efficiently</h3>
 <div align="center">
  🔭 I’m currently working on <a href="https://github.com/krish146/Hobnob">Hobnob</a> an application where you can connect with communities
   
